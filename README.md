@@ -61,8 +61,9 @@ numpy - One of the libraries used for this.
 time - One of the libraries used for this.
 
 ### Acknowledgements:
-xhlow - xhlow's repository helped with understanding the structure and details of certain functions.
-philribbens - philribben's repository also added to better understanding of the structure for this project.
-pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
-Udacity - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
-Finally, I'd like to mention my college courses on Principles of Econometrics and Intermediary Econometrics for introducing me to data analysis and R programming. The concepts embodied in the pandas library (e.g. data frame) were very similar to the ones used while I was working on my R projects for college assignments.
+- xhlow - xhlow's repository helped with understanding the structure and details of certain functions.
+- philribbens - philribben's repository also added to better understanding of the structure for this project.
+- pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
+- Udacity - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
+- Finally, I'd like to mention my college courses on Principles of Econometrics and Intermediary Econometrics for introducing me to data analysis and R programming. 
+- The concepts - embodied in the pandas library (e.g. data frame) were very similar to the ones used while I was working on my R projects for college assignments.
